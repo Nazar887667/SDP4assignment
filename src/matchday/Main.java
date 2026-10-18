@@ -1,6 +1,5 @@
 package matchday;
 
-/** Client: uses only MatchDayFacade, never a subsystem class. */
 public class Main {
 
     public static void main(String[] args) {
